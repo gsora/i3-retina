@@ -1,0 +1,5 @@
+packages:
+i3 gnome-terminal nautilus gvfs-google gnome-screenshot i3blocks thunderbird xorg-xbacklight 
+
+aur:
+kbdlight
